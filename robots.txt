@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://objective-wright-7a9740.netlify.app/sitemap.xml
